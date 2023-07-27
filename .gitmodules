@@ -1,0 +1,21 @@
+[submodule "websocket-server"]
+	path = websocket-server
+	url = https://github.com/nusatech-cv/websocket-server
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/nusatech-cv/notification-service
+[submodule "mock-api"]
+	path = mock-api
+	url = https://github.com/nusatech-cv/mock-api
+[submodule "mobile-app"]
+	path = mobile-app
+	url = https://github.com/nusatech-cv/mobile-app
+[submodule "mailer-service"]
+	path = mailer-service
+	url = https://github.com/nusatech-cv/mailer-service
+[submodule "homecarespa"]
+	path = homecarespa
+	url = https://github.com/nusatech-cv/homecarespa
+[submodule "admin-dashboard"]
+	path = admin-dashboard
+	url = https://github.com/nusatech-cv/admin-dashboard
