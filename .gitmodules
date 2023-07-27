@@ -19,3 +19,6 @@
 [submodule "admin-dashboard"]
 	path = admin-dashboard
 	url = https://github.com/nusatech-cv/admin-dashboard
+[submodule "backend-api"]
+	path = backend-api
+	url = https://github.com/nusatech-cv/backend-api
